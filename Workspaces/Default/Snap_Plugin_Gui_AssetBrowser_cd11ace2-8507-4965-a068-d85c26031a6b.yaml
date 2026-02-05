@@ -1,0 +1,29 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 23
+    values:
+      - Behavior.lsc
+      - Color Correction.mat
+      - Device Camera Texture.deviceCameraTexture
+      - Echopark.hdr/Diffuse
+      - Empty.png
+      - HideOnCapture.js
+      - Hint - Tap.lspkg/Hint - Tap__PUT_IN_ORTHO_CAM.prefab
+      - Hint - Tap.lspkg/Materials/SpriteGraphPreset.mat
+      - Hint - Tap.lspkg/Shaders
+      - Hint - Tap.lspkg/Shaders/SpriteGraphPreset.ss_graph
+      - Hint - Tap.lspkg/Textures/Hint_Tap_No_Dot.lensanim/Hint_Tap_No_Dot
+      - Hint - Tap.lspkg/package.native
+      - Hint - Tap.lspkg/package_dependencies.json
+      - Image 2.mat
+      - Image.mat
+      - Image.png
+      - LightController.js
+      - Render Target.renderTarget
+      - Scene.scene
+      - ScreenTexture.screenTexture
+      - Slider.lsc
+      - color_correction.ss_graph
+      - seta.jpg
+  options: 4

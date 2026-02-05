@@ -1,0 +1,9 @@
+# Lens Studio Cache & Temp Files
+Cache/
+History/
+User/
+NextGenCache/
+Studio/
+*.lock
+*.log
+*.tmp

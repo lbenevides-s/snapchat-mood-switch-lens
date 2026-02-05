@@ -1,0 +1,45 @@
+studioVersion:
+  major: 5
+  minor: 17
+  patch: 2
+  build: 26011319
+  type: Public
+coreVersion: 340
+clientVersion: 13.70
+updateCheckpoint: 83
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+metaInfo:
+  hints:
+    []
+  tags:
+    - LNYLS26
+    - VDAYLS26
+  lensName: Mood Switch
+  lensDescriptors:
+    []
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+  platformBundlesEnabled: false
+  iconHash: c838c08e085d4925ea04932e99f7ddc2
+  videoPreviewHash: e982a4a3dc64928d1e724223af3128e8
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.17.2.26011319
+  activationCamera: Front
+  sourceMapEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  documentId: f3d524c5-ac07-44a7-b03a-e07d591396ec
+  originalDocumentId: f3d524c5-ac07-44a7-b03a-e07d591396ec
